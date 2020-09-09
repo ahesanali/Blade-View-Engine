@@ -1,5 +1,5 @@
 {
-    "name": "ahesanali/laravel-blade",
+    "name": "ahesanali/balde-view-engine",
     "description": "Use the simple and yet powerful Laravel Blade templating engine as a standalone component.",
     "keywords": ["laravel", "blade"],
     "license": "MIT",
