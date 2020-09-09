@@ -1,4 +1,4 @@
-<?php namespace Philo\Blade;
+<?php namespace AhesanAli\Blade;
 
 use Illuminate\Container\Container;
 use Illuminate\Events\Dispatcher;
